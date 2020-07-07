@@ -1,0 +1,8 @@
+Archivo Entrada:
+SP_33N.txt
+
+Saida: tela
+
+Archivo Salida:
+SP_resultado.txt
+

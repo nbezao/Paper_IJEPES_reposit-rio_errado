@@ -1,0 +1,15 @@
+Perdas 15.9635
+vmin 0.9363
+inc_coarvore
+0	6
+1	8
+2	13
+3	31
+4	31
+f.O in 139.5515
+1438 FLUXOS DE CARGA FEITOS
+vminaux 0.9079
+# reconfig	1438
+# fluxos de carga	101
+tempo	0.0000 seg.
+perdas 139.5515
